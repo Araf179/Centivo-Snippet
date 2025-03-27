@@ -6,17 +6,7 @@ None the less we instantiate our server with our service and controllers assigni
 
 # User Management API - Simple, Clean, Effective
 
-Hey there! 👋 This project is a lightweight API designed for managing user data. We built this with simplicity and efficiency in mind.  If you're looking for a straightforward way to handle user creation, retrieval, updating, and deletion, you've come to the right place.
-
-## What's Under the Hood?
-
-This isn't just another API. We've put in the effort to make it:
-
-*   **Easy to Use:**  The endpoints are intuitive, and the data structures are clear.  You won't need a Ph.D. to figure it out.
-*   **Fast:**  We've optimized the code for speed.  No one likes waiting around, especially when working with data.
-*   **Reliable:**  We've built in checks and balances to make sure your data is handled properly.  It's not going to suddenly disappear or turn into gibberish.
-* **Age-conscious:** The api will filter users that are less than 21 years of age.
-*   **Well-Organized:**  The code is neatly structured, making it easy to navigate and understand.
+Hey there! 👋 This project is a lightweight API designed for managing user data. We built this with simplicity and efficiency in mind. If you're looking for a straightforward way to handle user creation, retrieval, updating, and deletion, you've come to the right place.
 
 ## Getting Started - Jump Right In!
 
