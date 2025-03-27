@@ -1,3 +1,9 @@
+# Approach
+
+I took a typescript approach just to avoid further maintainence issues. I chose a Model-View-Whatever design pattern approach. Only because I was
+thinking about CRUD in mind. If we wanted to add extra functionality we can add it to the service as needed i.e 0Auth2.0, rate limiters etc.
+None the less we instantiate our server with our service and controllers assigning them to appropriate route handlers. That was the basic idea :)
+
 # User Management API - Simple, Clean, Effective
 
 Hey there! 👋 This project is a lightweight API designed for managing user data. We built this with simplicity and efficiency in mind.  If you're looking for a straightforward way to handle user creation, retrieval, updating, and deletion, you've come to the right place.
@@ -55,7 +61,7 @@ Here's a quick rundown of the API's capabilities:
 *   **`PUT /users/:id`:** Update an existing user.
 *   **`DELETE /users/:id`:** Remove a user from the system.
 
-## Error Handling - We've Got Your Back
+## Error Handling
 
 We've put a lot of thought into how the API handles errors.  Here's the gist:
 
